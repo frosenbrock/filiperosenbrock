@@ -6,6 +6,7 @@ app = Flask(__name__)
 
 @app.route('/robots.txt')
 @app.route('/sitemap.xml')
+@app.route('/security.txt')
 @app.route('/favicon.ico')
 def static_from_root():
     return send_from_directory(app.static_folder, request.path[1:])
@@ -49,6 +50,19 @@ def toolverse():
 @app.route('/toolverse')
 def clean_toolverse_url():
     return redirect(url_for('toolverse'), code=301)
+
+
+@app.errorhandler(404)
+def page_not_found(e):
+    return render_template('error.html', 
+                           error_code=404, 
+                           message="Oops! Page not found."), 404
+
+@app.errorhandler(500)
+def internal_server_error(e):
+    return render_template('error.html', 
+                           error_code=500, 
+                           message="Something went wrong on our end."), 500
 
 if __name__ == '__main__':
     app.run(debug=True)

@@ -1,0 +1,6 @@
+# Security Policy for filiperosenbrock.dev
+Contact: mailto:me@filiperosenbrock.dev
+Expires: 2027-01-30T00:00:00.000Z
+Preferred-Languages: en, pt
+
+# "The first step toward security is observability."
