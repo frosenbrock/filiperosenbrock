@@ -1,0 +1,93 @@
+:root {
+    --bg: #0a1628;
+    --card-bg: #0f1d30;
+    --primary: #3b82f6;
+    --text: #e2e8f0;
+    --text-dim: #94a3b8;
+    --border: #1e3a52;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(to bottom, #0a1628, #0d1b2e);
+    background-attachment: fixed;
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    line-height: 1.6;
+    min-height: 100vh;
+}
+
+nav {
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid var(--border);
+}
+
+nav a {
+    color: var(--text);
+    text-decoration: none;
+    margin-right: 15px;
+    transition: color 0.2s ease;
+}
+
+nav a:hover {
+    color: var(--primary);
+}
+
+/* Estilo comum para as tabelas das 3 páginas */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background: var(--card-bg);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+th, td {
+    padding: 12px;
+    border-bottom: 1px solid var(--border);
+    text-align: left;
+}
+
+th {
+    color: var(--primary);
+    font-size: 0.9rem;
+    font-weight: 600;
+    background: rgba(59, 130, 246, 0.05);
+}
+
+tr:last-child td {
+    border-bottom: none;
+}
+
+tr:hover {
+    background: rgba(59, 130, 246, 0.03);
+}
+
+.accent {
+    color: var(--primary);
+    font-weight: bold;
+}
+
+h1, h2, h3 {
+    color: var(--text);
+    margin-bottom: 1rem;
+}
+
+a {
+    color: var(--primary);
+    transition: opacity 0.2s ease;
+}
+
+a:hover {
+    opacity: 0.8;
+}

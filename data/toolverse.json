@@ -1,0 +1,119 @@
+{
+  "toolverse": [
+    {
+      "name": "50/30/20 Budget Rule Calculator",
+      "desc": "Simple financial planning: know how much to spend on each category of your monthly budget.",
+      "url": "https://toolverse.app/50-30-20-rule-calculator/"
+    },
+    {
+      "name": "All Currency Conversions",
+      "desc": "Updated exchange rates for global currencies and crypto.",
+      "url": "https://toolverse.app/all-currency-conversions/"
+    },
+    {
+      "name": "BMI Calculator",
+      "desc": "Calculate your BMI in seconds and check your classification on the official WHO table.",
+      "url": "https://toolverse.app/bmi-calculator/"
+    },
+    {
+      "name": "BMR Calculator",
+      "desc": "Basal Metabolic Rate: Calculate how many calories your body burns at rest.",
+      "url": "https://toolverse.app/bmr-calculator/"
+    },
+    {
+      "name": "Cat Age in Human Years",
+      "desc": "Convert cat years to human years instantly and check the life expectancy chart.",
+      "url": "https://toolverse.app/calculate-your-cats-human-age/"
+    },
+    {
+      "name": "Dog Age in Human Years",
+      "desc": "Discover your dog's age in human years based on age and weight.",
+      "url": "https://toolverse.app/calculate-your-dogs-human-age/"
+    },
+    {
+      "name": "Car Finance Simulator",
+      "desc": "Simulate vehicle financing installments and interest rates with precision.",
+      "url": "https://toolverse.app/car-installment-simulation/"
+    },
+    {
+      "name": "Compound Interest Calculator",
+      "desc": "Simulate long-term wealth growth with monthly contributions.",
+      "url": "https://toolverse.app/compound-interest-calculator/"
+    },
+    {
+      "name": "Date Difference Calculator",
+      "desc": "Calculate the exact days, months, and years between two dates.",
+      "url": "https://toolverse.app/difference-between-dates/"
+    },
+    {
+      "name": "Hours Calculator",
+      "desc": "Calculate time duration and intervals, including overnight shifts.",
+      "url": "https://toolverse.app/difference-between-times/"
+    },
+    {
+      "name": "Temperature Converter",
+      "desc": "Transform temperatures between Celsius and Fahrenheit scales instantly.",
+      "url": "https://toolverse.app/fahrenheit-to-celsius-converter/"
+    },
+    {
+      "name": "Financial Independence Calculator",
+      "desc": "Find your 'Freedom Number' and how much you must invest to retire.",
+      "url": "https://toolverse.app/financial-independence-calculator/"
+    },
+    {
+      "name": "Fuel Consumption Calculator",
+      "desc": "Calculate vehicle fuel efficiency (MPG, Km/L & L/100km).",
+      "url": "https://toolverse.app/fuel-consumption-calculator/"
+    },
+    {
+      "name": "Pregnancy Due Date Calculator",
+      "desc": "Calculate pregnancy weeks and estimated due date accurately.",
+      "url": "https://toolverse.app/gestational-calculator/"
+    },
+    {
+      "name": "Hourly Rate Calculator",
+      "desc": "Define a fair price for your services based on costs and hours worked.",
+      "url": "https://toolverse.app/hourly-rate-calculator/"
+    },
+    {
+      "name": "Image Size Reducer",
+      "desc": "Compress and optimize your images easily online.",
+      "url": "https://toolverse.app/image-size-reducer/"
+    },
+    {
+      "name": "Length Unit Converter",
+      "desc": "Transform metric and imperial measurements quickly and accurately.",
+      "url": "https://toolverse.app/length-unit-converter/"
+    },
+    {
+      "name": "Percentage Calculator",
+      "desc": "Find out how much one value represents of another quickly.",
+      "url": "https://toolverse.app/percentage-calculator/"
+    },
+    {
+      "name": "Remove Image Background",
+      "desc": "Create transparent backgrounds for your photos instantly.",
+      "url": "https://toolverse.app/remove-image-background/"
+    },
+    {
+      "name": "ROI Calculator",
+      "desc": "Measure the financial return of marketing campaigns and new businesses.",
+      "url": "https://toolverse.app/roi-calculator/"
+    },
+    {
+      "name": "WebP Image Converter",
+      "desc": "Easy WebP to JPEG/PNG conversion online.",
+      "url": "https://toolverse.app/webp-image-converter/"
+    },
+    {
+      "name": "WhatsApp Link Generator",
+      "desc": "Generate a personalized WhatsApp link for your phone number.",
+      "url": "https://toolverse.app/whatsapp-link-generator/"
+    },
+    {
+      "name": "US Federal Holidays 2026-2030",
+      "desc": "Official US Federal Holidays list and long weekends planning.",
+      "url": "https://toolverse.app/us-holidays-2026/"
+    }
+  ]
+}

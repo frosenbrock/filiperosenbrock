@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Referência para o Sitemap
+Sitemap: https://filiperosenbrock.dev/sitemap.xml

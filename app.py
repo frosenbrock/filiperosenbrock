@@ -1,0 +1,41 @@
+import json
+import os
+from flask import Flask, render_template, send_from_directory
+
+app = Flask(__name__)
+
+@app.route('/robots.txt')
+@app.route('/sitemap.xml')
+@app.route('/favicon.ico')
+def static_from_root():
+    return send_from_directory(app.static_folder, request.path[1:])
+
+def load_data(file):
+    file_path = os.path.join(app.root_path, 'data', file)
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    return {file.replace('.json', ''): []}
+
+@app.route('/')
+def home():
+    return render_template('home.html')
+
+@app.route('/calculo-correto')
+def calculo_correto():
+    data = load_data('calculo.json')
+    return render_template('calculo_correto.html', 
+                           title="Cálculo Correto", 
+                           description="Brazilian labor and financial calculators.",
+                           tools=data.get('calculo', []))
+
+@app.route('/toolverse')
+def toolverse():
+    data = load_data('toolverse.json')
+    return render_template('toolverse.html', 
+                           title="Toolverse", 
+                           description="Global developer utilities and web tools.",
+                           tools=data.get('toolverse', []))
+
+if __name__ == '__main__':
+    app.run(debug=True)

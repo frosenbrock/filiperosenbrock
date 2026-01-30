@@ -1,0 +1,279 @@
+{
+  "calculo": [
+    {
+      "name": "Álcool ou Gasolina? Calculadora de Combustível",
+      "desc": "Economize no abastecimento sabendo qual combustível oferece o melhor custo-benefício.",
+      "url": "https://calculocorreto.com/alcool-ou-gasolina/"
+    },
+    {
+      "name": "Alugar ou Comprar Imóvel? Simulador Financeiro",
+      "desc": "Compare o rendimento de investimentos vs. prestações imobiliárias para decidir se vale a pena financiar.",
+      "url": "https://calculocorreto.com/alugar-ou-comprar/"
+    },
+    {
+      "name": "Calculadora de Adicional Noturno e Insalubridade 2026",
+      "desc": "Descubra o valor exato do seu adicional com base no salário mínimo vigente.",
+      "url": "https://calculocorreto.com/calculadora-de-adicionais/"
+    },
+    {
+      "name": "Calculadora de Consumo de Combustível (Km/L)",
+      "desc": "Calcule a autonomia do veículo e entenda a fórmula de quilômetros por litro.",
+      "url": "https://calculocorreto.com/calculadora-de-consumo-de-combustivel/"
+    },
+    {
+      "name": "Calculadora de Décimo Terceiro",
+      "desc": "Calcule o 13º salário líquido (1ª e 2ª parcela) com descontos de INSS e IRRF.",
+      "url": "https://calculocorreto.com/calculadora-de-decimo-terceiro/"
+    },
+    {
+      "name": "Calcular desconto do Vale Alimentação",
+      "desc": "Saiba qual o valor exato que será deduzido do seu salário por conta do benefício.",
+      "url": "https://calculocorreto.com/calculadora-de-desconto-do-vale-alimentacao/"
+    },
+    {
+      "name": "Calculadora de Férias 2026",
+      "desc": "Simule suas férias CLT com adicional de 1/3 e abono pecuniário.",
+      "url": "https://calculocorreto.com/calculadora-de-ferias/"
+    },
+    {
+      "name": "Calculadora Multa 40% FGTS e Saldo",
+      "desc": "Calcule o valor da sua multa rescisória e o saldo total a sacar.",
+      "url": "https://calculocorreto.com/calculadora-de-fgts-e-multa-40/"
+    },
+    {
+      "name": "Calculadora de Hora Extra 2026",
+      "desc": "Calcule adicionais de 50%, 100% e adicional noturno de forma simples.",
+      "url": "https://calculocorreto.com/calculadora-de-hora-extra/"
+    },
+    {
+      "name": "Calculadora de Horas",
+      "desc": "Calcule o intervalo e a diferença exata entre dois horários de forma gratuita.",
+      "url": "https://calculocorreto.com/calculadora-de-horas/"
+    },
+    {
+      "name": "Calculadora de IMC",
+      "desc": "Calcule seu IMC em segundos e confira sua classificação na tabela da OMS.",
+      "url": "https://calculocorreto.com/calculadora-de-imc/"
+    },
+    {
+      "name": "Calculadora de Independência Financeira",
+      "desc": "Saiba quanto capital você precisa acumular para cobrir seu custo de vida para sempre.",
+      "url": "https://calculocorreto.com/calculadora-de-independencia-financeira/"
+    },
+    {
+      "name": "Calculadora de Inflação IPCA",
+      "desc": "Correção histórica de valores pela variação do índice IPCA.",
+      "url": "https://calculocorreto.com/calculadora-de-inflacao-ipca/"
+    },
+    {
+      "name": "Calculadora ITCMD 2026",
+      "desc": "Calcule o imposto de herança e doação por estado com as novas regras progressivas.",
+      "url": "https://calculocorreto.com/calculadora-de-itcmd-e-inventario/"
+    },
+    {
+      "name": "Calculadora de Juros Compostos",
+      "desc": "Simule o crescimento do seu patrimônio com aportes mensais e juros.",
+      "url": "https://calculocorreto.com/calculadora-de-juros-compostos/"
+    },
+    {
+      "name": "Calculadora de Juros de Boleto",
+      "desc": "Calcule o valor atualizado de contas atrasadas com multa e juros diários.",
+      "url": "https://calculocorreto.com/calculadora-de-juros-de-boleto/"
+    },
+    {
+      "name": "Calculadora de Juros Simples",
+      "desc": "Ideal para calcular juros de boletos e empréstimos utilizando a fórmula J=C.i.t.",
+      "url": "https://calculocorreto.com/calculadora-de-juros-simples/"
+    },
+    {
+      "name": "Calculadora de Lucro do FGTS",
+      "desc": "Saiba quanto irá receber de lucro do FGTS com base no seu saldo base.",
+      "url": "https://calculocorreto.com/calculadora-de-lucro-do-fgts/"
+    },
+    {
+      "name": "Calculadora de Pensão Alimentícia 2026",
+      "desc": "Ferramenta gratuita para simular porcentagens e divisão de custos de pensão.",
+      "url": "https://calculocorreto.com/calculadora-de-pensao-alimenticia/"
+    },
+    {
+      "name": "Calculadora de Porcentagem",
+      "desc": "Descubra quanto um valor representa de outro rapidamente.",
+      "url": "https://calculocorreto.com/calculadora-de-porcentagem/"
+    },
+    {
+      "name": "Calculadora de Regra de Três Simples",
+      "desc": "Resolva problemas de proporção e descubra o valor de X rapidamente.",
+      "url": "https://calculocorreto.com/calculadora-de-regra-de-tres/"
+    },
+    {
+      "name": "Calculadora de Rendimento Selic",
+      "desc": "Simule investimentos em Tesouro Selic e CDBs com desconto automático de IR.",
+      "url": "https://calculocorreto.com/calculadora-de-rendimento-selic/"
+    },
+    {
+      "name": "Calculadora de Rescisão CLT 2026",
+      "desc": "Simule rescisão completa: saldo de salário, aviso prévio, férias e multa do FGTS.",
+      "url": "https://calculocorreto.com/calculadora-de-rescisao/"
+    },
+    {
+      "name": "Calculadora de ROI",
+      "desc": "Meça o retorno financeiro de campanhas de marketing e novos negócios.",
+      "url": "https://calculocorreto.com/calculadora-de-roi/"
+    },
+    {
+      "name": "Calculadora de Salário Líquido 2026",
+      "desc": "Simule o valor real que receberá após os descontos de INSS e Imposto de Renda.",
+      "url": "https://calculocorreto.com/calculadora-de-salario-liquido/"
+    },
+    {
+      "name": "Calculadora CLT x PJ 2026",
+      "desc": "Compare o salário e impostos entre os regimes CLT e PJ para decidir a melhor opção.",
+      "url": "https://calculocorreto.com/calculadora-de-salario-pj-clt/"
+    },
+    {
+      "name": "Calculadora de Seguro Desemprego 2026",
+      "desc": "Faça o cálculo das parcelas e veja o tempo de recebimento do benefício.",
+      "url": "https://calculocorreto.com/calculadora-de-seguro-desemprego/"
+    },
+    {
+      "name": "Calculadora de Taxa Metabólica Basal (TMB)",
+      "desc": "Calcule quantas calorias seu corpo gasta em repouso absoluto.",
+      "url": "https://calculocorreto.com/calculadora-de-taxa-metabolica-basal/"
+    },
+    {
+      "name": "Calculadora de Valor Hora",
+      "desc": "Defina o preço justo pelo seu serviço com base em custos e horas trabalhadas.",
+      "url": "https://calculocorreto.com/calculadora-de-valor-hora/"
+    },
+    {
+      "name": "Calculadora de Dias Trabalhados",
+      "desc": "Calcule o saldo de salário proporcional e o intervalo exato entre datas.",
+      "url": "https://calculocorreto.com/calculadora-dias-trabalhados/"
+    },
+    {
+      "name": "Calculadora de Dias Úteis",
+      "desc": "Calcule prazos descontando finais de semana e feriados nacionais (Novo CPC).",
+      "url": "https://calculocorreto.com/calculadora-dias-uteis/"
+    },
+    {
+      "name": "Calculadora Gestacional",
+      "desc": "Saiba as semanas de gravidez e a data provável do parto.",
+      "url": "https://calculocorreto.com/calculadora-gestacional/"
+    },
+    {
+      "name": "Calcular Idade Humana do Cachorro",
+      "desc": "Descubra a idade do seu cachorro em anos humanos com base no peso.",
+      "url": "https://calculocorreto.com/calcular-idade-humana-do-cachorro/"
+    },
+    {
+      "name": "Calcular Idade Humana do Gato",
+      "desc": "Converta a idade do seu gato para anos humanos e veja a expectativa de vida.",
+      "url": "https://calculocorreto.com/calcular-idade-humana-do-gato/"
+    },
+    {
+      "name": "Cálculo Novo Imposto de Renda 2026",
+      "desc": "Simule a isenção para quem ganha até R$ 5.000,00 e compare com a regra anterior.",
+      "url": "https://calculocorreto.com/calculo-novo-imposto-de-renda-2026/"
+    },
+    {
+      "name": "Calendário Bolsa Família 2026",
+      "desc": "Datas de pagamento e consulta organizadas pelo final do NIS.",
+      "url": "https://calculocorreto.com/calendario-bolsa-familia/"
+    },
+    {
+      "name": "Consultar CEP",
+      "desc": "Descubra o endereço completo a partir de um CEP de forma gratuita.",
+      "url": "https://calculocorreto.com/consulta-cep/"
+    },
+    {
+      "name": "Contador de Datas",
+      "desc": "Diferença entre datas em segundos, dias, meses e anos com precisão.",
+      "url": "https://calculocorreto.com/contador-de-datas/"
+    },
+    {
+      "name": "Conversor de Real para Bitcoin Hoje",
+      "desc": "Taxa de câmbio atualizada em tempo real para criptomoedas.",
+      "url": "https://calculocorreto.com/conversao-real-bitcoin/"
+    },
+    {
+      "name": "Conversor de Real para Dólar",
+      "desc": "Converta Real para Dólar (Comercial e Turismo) com taxas atualizadas.",
+      "url": "https://calculocorreto.com/conversao-real-dolar/"
+    },
+    {
+      "name": "Conversor de Real para Euro/Libra",
+      "desc": "Câmbio atualizado para as principais moedas europeias.",
+      "url": "https://calculocorreto.com/conversao-real-euro/"
+    },
+    {
+      "name": "Fahrenheit para Celsius",
+      "desc": "Transforme temperaturas entre as escalas Celsius e Fahrenheit instantaneamente.",
+      "url": "https://calculocorreto.com/converter-fahrenheit-para-celsius/"
+    },
+    {
+      "name": "Converter Horas em Decimal",
+      "desc": "Calculadora de conversão de minutos para horas decimais para folha de ponto.",
+      "url": "https://calculocorreto.com/converter-horas-em-decimal/"
+    },
+    {
+      "name": "Converter Unidades de Comprimento",
+      "desc": "Transforme medidas métricas e imperiais de forma simples e precisa.",
+      "url": "https://calculocorreto.com/converter-unidades-de-comprimento/"
+    },
+    {
+      "name": "Calculadora de Depósito FGTS",
+      "desc": "Saiba quanto seu empregador deve depositar mensalmente no seu fundo.",
+      "url": "https://calculocorreto.com/deposito-fgts/"
+    },
+    {
+      "name": "Cálculo de Desconto INSS 2026",
+      "desc": "Calcule a contribuição previdenciária com a nova tabela oficial progressiva.",
+      "url": "https://calculocorreto.com/desconto-inss/"
+    },
+    {
+      "name": "Calendário de Feriados Nacionais 2024-2030",
+      "desc": "Planeje seus feriados prolongados e folgas com datas detalhadas.",
+      "url": "https://calculocorreto.com/feriados-nacionais-2026/"
+    },
+    {
+      "name": "Gerador de Link para WhatsApp",
+      "desc": "Gere um link personalizado para facilitar o contato com clientes.",
+      "url": "https://calculocorreto.com/gerador-de-link-para-whatsapp/"
+    },
+    {
+      "name": "Cálculo de Imposto de Renda Mensal 2026",
+      "desc": "Simule a retenção de IR na fonte (IRRF) com a nova faixa de isenção.",
+      "url": "https://calculocorreto.com/imposto-de-renda-mensal/"
+    },
+    {
+      "name": "Rastreamento Correios",
+      "desc": "Consulte o status de entrega e histórico do seu objeto em tempo real.",
+      "url": "https://calculocorreto.com/rastreio-objeto-correios/"
+    },
+    {
+      "name": "Calculadora Regra 50/30/20",
+      "desc": "Planejamento financeiro: saiba quanto gastar em cada categoria do orçamento.",
+      "url": "https://calculocorreto.com/regra-50-30-20/"
+    },
+    {
+      "name": "Simular Financiamento de Carro",
+      "desc": "Simule parcelas e juros de financiamento de veículos com precisão.",
+      "url": "https://calculocorreto.com/simular-financiamento-carro/"
+    },
+    {
+      "name": "Somar Horas Trabalhadas",
+      "desc": "Fechamento de folha de ponto online com exportação para PDF.",
+      "url": "https://calculocorreto.com/somar-horas-trabalhadas/"
+    },
+    {
+      "name": "Tabela IRPF 2026",
+      "desc": "Confira as faixas e alíquotas com a nova isenção aprovada.",
+      "url": "https://calculocorreto.com/tabela-irpf/"
+    },
+    {
+      "name": "Salário Mínimo 2026 (R$ 1.621,00)",
+      "desc": "Confira o novo valor oficializado pelo Decreto nº 12.797.",
+      "url": "https://calculocorreto.com/valor-atual-do-salario-minimo/"
+    }
+  ]
+}

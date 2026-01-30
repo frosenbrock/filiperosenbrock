@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+        <title>{% block title %}{% endblock %} | Filipe Rosenbrock</title>
+    
+        <meta name="description" content="Splunk Specialist and Full Stack Developer focused on Critical Observability and Data Architecture.">
+        <meta name="author" content="Filipe Rosenbrock">
+    
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://filiperosenbrock.dev/">
+        <meta property="og:title" content="Filipe Rosenbrock | Splunk Specialist">
+        <meta property="og:description" content="Splunk Specialist and Developer focused on Critical Observability and Data Architecture.">
+        <meta property="og:image" content="{{ url_for('static', filename='images/preview.webp') }}">
+    
+        <meta property="twitter:card" content="summary_large_image">
+        <meta property="twitter:url" content="https://filiperosenbrock.dev/">
+        <meta property="twitter:title" content="Filipe Rosenbrock | Splunk Specialist">
+        <meta property="twitter:description" content="Splunk Specialist and Full Stack Developer focused on Critical Observability and Data Architecture.">
+        <meta property="twitter:image" content="{{ url_for('static', filename='images/preview.webp') }}">
+    
+        <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    </head>
+<body>
+    <nav>
+        <a href="/"><strong>Filipe Rosenbrock</strong></a>
+        <span style="color: var(--border); margin: 0 10px;">|</span> 
+        <span style="font-size: 0.8rem; color: var(--text-dim); text-transform: uppercase; margin-right: 10px;">Projects:</span>
+        <a href="/calculo-correto">Cálculo Correto</a>
+        <a href="/toolverse">Toolverse</a>
+    </nav>
+
+    <main>
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer style="margin-top: 50px; opacity: 0.6; font-size: 0.8rem;">
+        © 2026 Filipe Rosenbrock - Data Analyst
+    </footer>
+</body>
+</html>
