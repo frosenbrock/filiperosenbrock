@@ -24,15 +24,17 @@
     
         <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='favicon.ico') }}">
     
-        <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}?v=1.0.1">
     </head>
 <body>
-    <nav>
-        <a href="/"><strong>Filipe Rosenbrock</strong></a>
-        <span style="color: var(--border); margin: 0 10px;">|</span> 
-        <span style="font-size: 0.8rem; color: var(--text-dim); text-transform: uppercase; margin-right: 10px;">Projects:</span>
-        <a href="/calculocorreto/">Cálculo Correto</a>
-        <a href="/toolverse/">Toolverse</a>
+    <nav class="main-nav">
+        <a href="/" class="nav-brand"><strong>Filipe Rosenbrock</strong></a>
+        <span class="nav-separator">|</span> 
+        <span class="nav-label">Projects:</span>
+        <div class="nav-links">
+            <a href="/calculocorreto/">Cálculo Correto</a>
+            <a href="/toolverse/">Toolverse</a>
+        </div>
     </nav>
 
     <main>

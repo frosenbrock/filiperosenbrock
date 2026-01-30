@@ -54,8 +54,8 @@ def calculocorreto():
 @app.route('/toolverse/')
 @app.route('/toolverse')
 def toolverse():
-    if not request.path == '/toolverse/':
-        return redirect(url_for('toolverse'), code=301)
+    if request.path == '/toolverse':
+        return redirect('/toolverse/', code=301)
         
     data = load_data('toolverse.json')
     return render_template('toolverse.html', 
