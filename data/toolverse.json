@@ -114,6 +114,31 @@
       "name": "US Federal Holidays 2026-2030",
       "desc": "Official US Federal Holidays list and long weekends planning.",
       "url": "https://toolverse.app/us-holidays-2026/"
+    },
+    {
+      "name": "Instagram Line Breaker",
+      "desc": "Create clean captions with invisible line breaks for Instagram and social media.",
+      "url": "https://toolverse.app/instagram-line-breaker/"
+    },
+    {
+      "name": "Text Counter: Character & Word Count",
+      "desc": "Real-time character, word, and paragraph counter for writers and SEO editors.",
+      "url": "https://toolverse.app/text-counter-character-word-count/"
+    },
+    {
+      "name": "Case Converter: Upper & Lowercase",
+      "desc": "Quickly change text case between UPPERCASE, lowercase, Sentence case, and more.",
+      "url": "https://toolverse.app/case-converter-uppercase-lowercase/"
+    },
+    {
+      "name": "Business Days Calculator",
+      "desc": "Calculate the date difference excluding weekends and federal holidays.",
+      "url": "https://toolverse.app/business-days-calculator/"
+    },
+    {
+      "name": "Work Days & Payroll Calculator",
+      "desc": "Calculate days worked and proportional salary balance for termination or hiring.",
+      "url": "https://toolverse.app/work-days-payroll-calculator/"
     }
   ]
 }
