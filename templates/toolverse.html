@@ -20,7 +20,7 @@
             </tr>
         </thead>
         <tbody>
-            {% for f in tools %}
+            {% for f in tools|sort(attribute='url') %}
             <tr>
                 <td class="accent">{{ f.name }}</td>
                 <td>{{ f.desc }}</td>
