@@ -274,6 +274,21 @@
       "name": "Salário Mínimo 2026 (R$ 1.621,00)",
       "desc": "Confira o novo valor oficializado pelo Decreto nº 12.797.",
       "url": "https://calculocorreto.com/valor-atual-do-salario-minimo/"
+    },
+    {
+      "name": "Contador de Caracteres",
+      "desc": "Conte caracteres, palavras e linhas de um texto em tempo real.",
+      "url": "https://calculocorreto.com/contador-de-caracteres/"
+    },
+    {
+      "name": "Letras Maiúsculas e Minúsculas",
+      "desc": "Converta textos para maiúsculas, minúsculas, título ou frase de forma automática.",
+      "url": "https://calculocorreto.com/letras-maiusculas-e-minusculas/"
+    },
+    {
+      "name": "Espaço Invisível Instagram & TikTok",
+      "desc": "Gere espaços vazios e caracteres invisíveis para usar em bios, legendas e nomes de usuário.",
+      "url": "https://calculocorreto.com/espaco-invisivel-instagram-tiktok/"
     }
   ]
 }
