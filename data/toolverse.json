@@ -139,6 +139,11 @@
       "name": "Work Days & Payroll Calculator",
       "desc": "Calculate days worked and proportional salary balance for termination or hiring.",
       "url": "https://toolverse.app/work-days-payroll-calculator/"
+    },
+    {
+      "name": "Online Stopwatch",
+      "desc": "A simple and accurate tool to track time for any activity.",
+      "url": "https://toolverse.app/online-stopwatch/"
     }
   ]
 }
